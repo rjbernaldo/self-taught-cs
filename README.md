@@ -3,14 +3,14 @@
 Hand picked items to teach myself computer science. A lot of these came from [jwasham](https://github.com/jwasham/coding-interview-university).
 
 ## Mindset
-- [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-- [ ] [Believe you can change](http://www.aaronsw.com/weblog/dweck)
-- [ ] [Think you're not smart enough to work at Google? Well, think again](https://www.youtube.com/watch?v=uPOJ1PR50ag)
+- [ ] [The myth of the Genius Programmer (video)](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech (video)](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [x] [Believe you can change](http://www.aaronsw.com/weblog/dweck)
+- [ ] [Think you're not smart enough to work at Google? Well, think again (video)](https://www.youtube.com/watch?v=uPOJ1PR50ag)
+- [ ] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 - [ ] [Flashcards?](https://github.com/jwasham/computer-science-flash-cards)
 
 ## General
-- [ ] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
 - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
 - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
