@@ -11,8 +11,8 @@ Hand picked items to teach myself computer science. A lot of these came from [jw
 - [ ] [Flashcards?](https://github.com/jwasham/computer-science-flash-cards)
 
 ## General
-
-  <details><summary>- [x] [Linux File System/Structure Explained! (video)](https://www.youtube.com/watch?v=HbgzrKJvDRw)</summary>
+- [x] [Linux File System/Structure Explained! (video)](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+<details><summary>Notes</summary>
 
     - /bin    - binaries or applications (ls, cat, etc)
     - /sbin   - system binaries
