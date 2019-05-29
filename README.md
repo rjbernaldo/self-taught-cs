@@ -24,7 +24,7 @@ Hand picked items to teach myself computer science. A lot of these came from [jw
     - Be ready to fail a lot
 
   </details>
-- [ ] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
+- [x] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
   <details><summary>Notes</summary>
 
     - Mistake: Binge learning
