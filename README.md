@@ -6,7 +6,13 @@ Hand picked items to teach myself computer science. A lot of these came from [jw
 - [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech (video)](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [x] [Believe you can change](http://www.aaronsw.com/weblog/dweck)
 - [ ] [The myth of the Genius Programmer (video)](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [ ] [Think you're not smart enough to work at Google? Well, think again (video)](https://www.youtube.com/watch?v=uPOJ1PR50ag)
+- [x] [Think you're not smart enough to work at Google? Well, think again (video)](https://www.youtube.com/watch?v=uPOJ1PR50ag)
+  <details><summary>Notes</summary>
+
+    - Be persistent
+    - Be ready to fail a lot
+
+  </details>
 - [ ] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 - [ ] [Flashcards?](https://github.com/jwasham/computer-science-flash-cards)
 
@@ -14,24 +20,24 @@ Hand picked items to teach myself computer science. A lot of these came from [jw
 - [x] [Linux File System/Structure Explained! (video)](https://www.youtube.com/watch?v=HbgzrKJvDRw)
   <details><summary>Notes</summary>
 
-      - /bin    - binaries or applications (ls, cat, etc)
-      - /sbin   - system binaries
-      - /dev    - where hardware devices lives as psuedofiles
-      - /etc    - system configuration like for apt
-      - /home   - stores personal files and documents
-      - /lib    - libraries required by apps in bin or sbin
-      - /mnt    - manually mounted drives
-      - /media  - automatically managed by OS
-      - /opt    - manually installed software from vendors resides like printers, etc
-      - /proc   - psuedofiles that contain information about system resources as PID folders
-      - /root   - root user's home folder, location ensures it always has access to /home
-      - /run    - (tempfs) runs in ram
-      - /snap   - ubuntu self contained apps
-      - /srv    - service directory for web servers or ftp
-      - /sys    - system folder. way to interact with the kernel. similar to run.
-      - /tmp    - temporarily stored used during session
-      - /usr    - apps stored for specific user
-      - /var    - variable files where file sizes can grow
+    - /bin    - binaries or applications (ls, cat, etc)
+    - /sbin   - system binaries
+    - /dev    - where hardware devices lives as psuedofiles
+    - /etc    - system configuration like for apt
+    - /home   - stores personal files and documents
+    - /lib    - libraries required by apps in bin or sbin
+    - /mnt    - manually mounted drives
+    - /media  - automatically managed by OS
+    - /opt    - manually installed software from vendors resides like printers, etc
+    - /proc   - psuedofiles that contain information about system resources as PID folders
+    - /root   - root user's home folder, location ensures it always has access to /home
+    - /run    - (tempfs) runs in ram
+    - /snap   - ubuntu self contained apps
+    - /srv    - service directory for web servers or ftp
+    - /sys    - system folder. way to interact with the kernel. similar to run.
+    - /tmp    - temporarily stored used during session
+    - /usr    - apps stored for specific user
+    - /var    - variable files where file sizes can grow
 
   </details>
 
