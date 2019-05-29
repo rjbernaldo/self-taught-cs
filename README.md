@@ -4,7 +4,18 @@ Hand picked items to teach myself computer science. A lot of these came from [jw
 
 ## Mindset
 - [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech (video)](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+  <details><summary>Notes</summary>
+
+    - Be wary of both imposter syndrom and the dunning kruger effect.
+
+  </details>
 - [x] [Believe you can change](http://www.aaronsw.com/weblog/dweck)
+  <details><summary>Notes</summary>
+
+    - Growth mindset!
+    - Look at tough problems as challenges to conquer or a way to develop a skill.
+
+  </details>
 - [ ] [The myth of the Genius Programmer (video)](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [x] [Think you're not smart enough to work at Google? Well, think again (video)](https://www.youtube.com/watch?v=uPOJ1PR50ag)
   <details><summary>Notes</summary>
@@ -14,12 +25,20 @@ Hand picked items to teach myself computer science. A lot of these came from [jw
 
   </details>
 - [ ] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
-- [ ] [Flashcards?](https://github.com/jwasham/computer-science-flash-cards)
+  <details><summary>Notes</summary>
+
+    - Mistake: Binge learning
+    - Solution: Spaced repetition
+      - Flash cards for CS knowledge
+      - Paper print outs for algorithms & data structures
+
+  </details>
 
 ## General
 - [x] [Linux File System/Structure Explained! (video)](https://www.youtube.com/watch?v=HbgzrKJvDRw)
   <details><summary>Notes</summary>
 
+    - [Flash cards](https://tinycards.duolingo.com/decks/MMqoWHXD/linux-file-system-folders)
     - /bin    - binaries or applications (ls, cat, etc)
     - /sbin   - system binaries
     - /dev    - where hardware devices lives as psuedofiles
@@ -27,8 +46,7 @@ Hand picked items to teach myself computer science. A lot of these came from [jw
     - /home   - stores personal files and documents
     - /lib    - libraries required by apps in bin or sbin
     - /mnt    - manually mounted drives
-    - /media  - automatically managed by OS
-    - /opt    - manually installed software from vendors resides like printers, etc
+    - /opt    - manually installed software from vendors like printers, etc
     - /proc   - psuedofiles that contain information about system resources as PID folders
     - /root   - root user's home folder, location ensures it always has access to /home
     - /run    - (tempfs) runs in ram
