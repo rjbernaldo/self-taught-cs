@@ -12,28 +12,28 @@ Hand picked items to teach myself computer science. A lot of these came from [jw
 
 ## General
 - [x] [Linux File System/Structure Explained! (video)](https://www.youtube.com/watch?v=HbgzrKJvDRw)
-<details><summary>Notes</summary>
+  <details><summary>Notes</summary>
 
-    - /bin    - binaries or applications (ls, cat, etc)
-    - /sbin   - system binaries
-    - /dev    - where hardware devices lives as psuedofiles
-    - /etc    - system configuration like for apt
-    - /home   - stores personal files and documents
-    - /lib    - libraries required by apps in bin or sbin
-    - /mnt    - manually mounted drives
-    - /media  - automatically managed by OS
-    - /opt    - manually installed software from vendors resides like printers, etc
-    - /proc   - psuedofiles that contain information about system resources as PID folders
-    - /root   - root user's home folder, location ensures it always has access to /home
-    - /run    - (tempfs) runs in ram
-    - /snap   - ubuntu self contained apps
-    - /srv    - service directory for web servers or ftp
-    - /sys    - system folder. way to interact with the kernel. similar to run.
-    - /tmp    - temporarily stored used during session
-    - /usr    - apps stored for specific user
-    - /var    - variable files where file sizes can grow
+      - /bin    - binaries or applications (ls, cat, etc)
+      - /sbin   - system binaries
+      - /dev    - where hardware devices lives as psuedofiles
+      - /etc    - system configuration like for apt
+      - /home   - stores personal files and documents
+      - /lib    - libraries required by apps in bin or sbin
+      - /mnt    - manually mounted drives
+      - /media  - automatically managed by OS
+      - /opt    - manually installed software from vendors resides like printers, etc
+      - /proc   - psuedofiles that contain information about system resources as PID folders
+      - /root   - root user's home folder, location ensures it always has access to /home
+      - /run    - (tempfs) runs in ram
+      - /snap   - ubuntu self contained apps
+      - /srv    - service directory for web servers or ftp
+      - /sys    - system folder. way to interact with the kernel. similar to run.
+      - /tmp    - temporarily stored used during session
+      - /usr    - apps stored for specific user
+      - /var    - variable files where file sizes can grow
 
-</details>
+  </details>
 
 - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
 - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
