@@ -1,6 +1,10 @@
 # self-taught-cs
 
-Hand picked items to teach myself computer science. A lot of these came from [jwasham](https://github.com/jwasham/coding-interview-university).
+Hand picked resources to teach myself computer science.
+
+Credit:
+- [Kale Davis](https://hackernewsletter.com)
+- [John Washam](https://startupnextdoor.com)
 
 ## Mindset
 - [ ] [The myth of the Genius Programmer (video)](https://www.youtube.com/watch?v=0SARbwvhupQ)
