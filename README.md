@@ -3,6 +3,8 @@
 Hand picked items to teach myself computer science. A lot of these came from [jwasham](https://github.com/jwasham/coding-interview-university).
 
 ## Mindset
+- [ ] [The myth of the Genius Programmer (video)](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [ ] [How to do hard things](https://www.drmaciver.com/2019/05/how-to-do-hard-things/)
 - [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech (video)](https://www.youtube.com/watch?v=1i8ylq4j_EY)
   <details><summary>Notes</summary>
 
@@ -16,7 +18,6 @@ Hand picked items to teach myself computer science. A lot of these came from [jw
     - Look at tough problems as challenges to conquer or a way to develop a skill.
 
   </details>
-- [ ] [The myth of the Genius Programmer (video)](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [x] [Think you're not smart enough to work at Google? Well, think again (video)](https://www.youtube.com/watch?v=uPOJ1PR50ag)
   <details><summary>Notes</summary>
 
@@ -58,7 +59,6 @@ Hand picked items to teach myself computer science. A lot of these came from [jw
     - /var    - variable files where file sizes can grow
 
   </details>
-
 - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
 - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
 - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
