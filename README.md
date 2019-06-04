@@ -48,6 +48,7 @@ Credit:
   </details>
 
 ## General
+- [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
 - [x] [Linux File System/Structure Explained! (video)](https://www.youtube.com/watch?v=HbgzrKJvDRw)
   <details><summary>Notes</summary>
 
@@ -71,12 +72,11 @@ Credit:
     - /var    - variable files where file sizes can grow
 
   </details>
-- [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
 - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
 - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
 - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-- [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-- [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
+- [x] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
+- [x] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 ## Big-O
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
